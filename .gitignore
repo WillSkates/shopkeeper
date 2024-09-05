@@ -1,0 +1,4 @@
+# We should ingore anything private from any of the other branches.
+# e.g. .env
+.*
+!.gitignore
