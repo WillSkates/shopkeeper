@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Example Item 1",
+        "description": "An example item",
+        "prices": [
+            {
+                "type": "orig",
+                "value": 12
+            }
+        ]
+    },
+    {
+        "name": "Example Item 2",
+        "description": "Another example item",
+        "prices": [
+            {
+                "type": "orig",
+                "value": 23
+            }
+        ]
+    },
+    {
+        "name": "Example Item 3",
+        "description": "An third item",
+        "prices": [
+            {
+                "type": "orig",
+                "value": 14
+            }
+        ]
+    }
+]
